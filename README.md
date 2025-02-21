@@ -60,7 +60,7 @@ cd carTrading
 npm install
 ```
 
-### Set up environment variables in a `.env` file:
+### Environment variables:
 ```
 MONGO_URI=mongodb+srv://nygymettollaaibibi9:Kc1ocw29WAxROv47@cluster0.j4ydp.mongodb.net/carTrading
 JWT_SECRET=4f7d8e2a1b3c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0
