@@ -1,0 +1,479 @@
+[
+    {
+        "customer_id": 1,
+        "name": "Christopher Reid",
+        "email": "regina57@houston.com",
+        "phone": "(831)637-8128x1860",
+        "address": "386 Ruiz Shores Suite 873\nJonesville, NH 61079",
+        "city": "Amyborough",
+        "state": "Minnesota",
+        "zip_code": "32059",
+        "purchases": []
+    },
+    {
+        "customer_id": 2,
+        "name": "Anne Robinson",
+        "email": "david50@hotmail.com",
+        "phone": "083.133.4676x836",
+        "address": "6783 Jennifer Ports\nBrownton, WV 79220",
+        "city": "Guzmanshire",
+        "state": "Wyoming",
+        "zip_code": "11674",
+        "purchases": [
+            17,
+            23
+        ]
+    },
+    {
+        "customer_id": 3,
+        "name": "Katherine Medina MD",
+        "email": "scottashley@johnson.com",
+        "phone": "005.782.4650x215",
+        "address": "619 Martinez Crest Suite 032\nMoranland, ND 97210",
+        "city": "Lake Sarahhaven",
+        "state": "North Carolina",
+        "zip_code": "40165",
+        "purchases": []
+    },
+    {
+        "customer_id": 4,
+        "name": "Charles Burns",
+        "email": "pamela91@yahoo.com",
+        "phone": "573.476.5681",
+        "address": "3696 Tyler Shores Suite 715\nCollinstown, MD 44118",
+        "city": "Danielmouth",
+        "state": "Alabama",
+        "zip_code": "39749",
+        "purchases": [
+            19,
+            24,
+            26
+        ]
+    },
+    {
+        "customer_id": 5,
+        "name": "Meghan Shea",
+        "email": "joseph92@gmail.com",
+        "phone": "(683)374-9942",
+        "address": "48842 William Shoals Suite 568\nEast Hunter, KS 85038",
+        "city": "North Lisa",
+        "state": "Arkansas",
+        "zip_code": "18800",
+        "purchases": []
+    },
+    {
+        "customer_id": 6,
+        "name": "Laura Bryant",
+        "email": "sdrake@jenkins.biz",
+        "phone": "967.017.2298x858",
+        "address": "42144 Harold Trafficway Apt. 338\nLauramouth, KY 11034",
+        "city": "Meganport",
+        "state": "Connecticut",
+        "zip_code": "61874",
+        "purchases": []
+    },
+    {
+        "customer_id": 7,
+        "name": "Jeffrey Rodriguez",
+        "email": "james70@ford-berry.com",
+        "phone": "001-202-186-4282x38818",
+        "address": "92202 Gerald Spurs Suite 776\nSullivanstad, AZ 23136",
+        "city": "Lake Laurafort",
+        "state": "Ohio",
+        "zip_code": "63557",
+        "purchases": []
+    },
+    {
+        "customer_id": 8,
+        "name": "Monica Davies",
+        "email": "morganadams@yahoo.com",
+        "phone": "+1-247-729-3622",
+        "address": "085 Frank Greens Suite 168\nEast Margaretview, MT 36951",
+        "city": "Grantport",
+        "state": "Indiana",
+        "zip_code": "54955",
+        "purchases": []
+    },
+    {
+        "customer_id": 9,
+        "name": "Louis Johnson",
+        "email": "michele73@gmail.com",
+        "phone": "3796135528",
+        "address": "980 Martinez Points\nWhitetown, LA 04670",
+        "city": "Meganland",
+        "state": "Indiana",
+        "zip_code": "75517",
+        "purchases": []
+    },
+    {
+        "customer_id": 10,
+        "name": "Timothy Pennington",
+        "email": "xhudson@bryan.info",
+        "phone": "001-020-627-0416",
+        "address": "69404 Martinez Valleys Apt. 725\nNew Nathaniel, CO 62588",
+        "city": "South Nicholas",
+        "state": "Ohio",
+        "zip_code": "69314",
+        "purchases": [
+            30
+        ]
+    },
+    {
+        "customer_id": 11,
+        "name": "Jessica Wolfe",
+        "email": "carriejackson@yahoo.com",
+        "phone": "719-692-5198",
+        "address": "718 Shaw Shoals Suite 564\nJennifertown, WA 74785",
+        "city": "Tristanville",
+        "state": "Alabama",
+        "zip_code": "46973",
+        "purchases": []
+    },
+    {
+        "customer_id": 12,
+        "name": "Megan Wells",
+        "email": "kmontgomery@yahoo.com",
+        "phone": "928-556-7892x1680",
+        "address": "869 Melvin Rapids\nMaldonadofurt, DE 21031",
+        "city": "Hartshire",
+        "state": "Idaho",
+        "zip_code": "71887",
+        "purchases": []
+    },
+    {
+        "customer_id": 13,
+        "name": "Jacob Moreno",
+        "email": "aprilchapman@rose-kim.com",
+        "phone": "867-759-6882x00535",
+        "address": "831 Briggs Mountain\nWest Steven, WI 39509",
+        "city": "East Tonyaton",
+        "state": "Wyoming",
+        "zip_code": "65437",
+        "purchases": []
+    },
+    {
+        "customer_id": 14,
+        "name": "Cassandra Harding",
+        "email": "houstoncrystal@alvarez.net",
+        "phone": "+1-175-412-7878x94296",
+        "address": "841 Howard Summit\nWest Jeremy, MN 56532",
+        "city": "Chandlerstad",
+        "state": "Mississippi",
+        "zip_code": "11258",
+        "purchases": []
+    },
+    {
+        "customer_id": 15,
+        "name": "Ashley Bruce",
+        "email": "dwalker@villegas.com",
+        "phone": "334-986-1503x665",
+        "address": "Unit 7540 Box 6941\nDPO AA 92029",
+        "city": "Port Alison",
+        "state": "Vermont",
+        "zip_code": "04171",
+        "purchases": []
+    },
+    {
+        "customer_id": 16,
+        "name": "Alexa Chung",
+        "email": "nelsonrobert@yahoo.com",
+        "phone": "0787325161",
+        "address": "16608 Sharon Mission Suite 093\nAcostaburgh, VA 86307",
+        "city": "East Richardborough",
+        "state": "Montana",
+        "zip_code": "16551",
+        "purchases": [
+            21,
+            22
+        ]
+    },
+    {
+        "customer_id": 17,
+        "name": "Katie Smith",
+        "email": "lauren43@gmail.com",
+        "phone": "426-736-0382x10982",
+        "address": "69595 Paul Greens Apt. 532\nFrederickmouth, WY 20657",
+        "city": "West Erik",
+        "state": "Louisiana",
+        "zip_code": "38562",
+        "purchases": []
+    },
+    {
+        "customer_id": 18,
+        "name": "Kelly Gilbert",
+        "email": "alyssakelly@griffith.com",
+        "phone": "001-950-871-3616",
+        "address": "81090 Bryan Park\nScottville, KS 43273",
+        "city": "Carolineview",
+        "state": "North Dakota",
+        "zip_code": "85097",
+        "purchases": []
+    },
+    {
+        "customer_id": 19,
+        "name": "Ronald Wiley",
+        "email": "vreed@yahoo.com",
+        "phone": "814.096.1306x239",
+        "address": "361 Carroll Stream\nSouth Tina, NY 60602",
+        "city": "Port Angelaland",
+        "state": "Oregon",
+        "zip_code": "60102",
+        "purchases": [
+            9,
+            11
+        ]
+    },
+    {
+        "customer_id": 20,
+        "name": "George Duncan",
+        "email": "jennifercamacho@chavez.com",
+        "phone": "001-028-100-0682x788",
+        "address": "9168 Sanders Row Apt. 132\nWrightbury, KS 58774",
+        "city": "Alexshire",
+        "state": "North Dakota",
+        "zip_code": "65453",
+        "purchases": [
+            6
+        ]
+    },
+    {
+        "customer_id": 21,
+        "name": "Nicolas Adkins",
+        "email": "abell@gmail.com",
+        "phone": "481.246.1544x09871",
+        "address": "39991 Jason Flats\nPort Erin, AR 78153",
+        "city": "Port Aaron",
+        "state": "North Dakota",
+        "zip_code": "66945",
+        "purchases": []
+    },
+    {
+        "customer_id": 22,
+        "name": "Eric Dean Jr.",
+        "email": "moodyjoseph@yahoo.com",
+        "phone": "7188478912",
+        "address": "9180 Bauer Glen Suite 668\nPort Reginaside, RI 91971",
+        "city": "Chadmouth",
+        "state": "Alabama",
+        "zip_code": "63072",
+        "purchases": []
+    },
+    {
+        "customer_id": 23,
+        "name": "Julie Sanchez",
+        "email": "tararobinson@becker.com",
+        "phone": "(928)804-0820x017",
+        "address": "27423 Ramsey Brook Apt. 847\nNew Robertport, WV 79115",
+        "city": "Nathantown",
+        "state": "Colorado",
+        "zip_code": "90073",
+        "purchases": [
+            13,
+            14
+        ]
+    },
+    {
+        "customer_id": 24,
+        "name": "James King",
+        "email": "williamwhite@morrison.info",
+        "phone": "960.070.7501x731",
+        "address": "703 Russell Skyway\nGeorgetown, NJ 41749",
+        "city": "East Trevorburgh",
+        "state": "Missouri",
+        "zip_code": "22092",
+        "purchases": [
+            1
+        ]
+    },
+    {
+        "customer_id": 25,
+        "name": "Rachel Travis",
+        "email": "richardmiller@payne.com",
+        "phone": "+1-415-773-8699x003",
+        "address": "90450 Kathy Turnpike Apt. 644\nReneeshire, IA 43967",
+        "city": "East Alvinfurt",
+        "state": "Pennsylvania",
+        "zip_code": "49208",
+        "purchases": [
+            27
+        ]
+    },
+    {
+        "customer_id": 26,
+        "name": "Raymond Booth",
+        "email": "catherine85@yahoo.com",
+        "phone": "+1-044-813-0592x4950",
+        "address": "1396 Julie Pine\nSouth Nicholas, PA 66533",
+        "city": "West Steven",
+        "state": "Kansas",
+        "zip_code": "79315",
+        "purchases": [
+            3,
+            5,
+            28
+        ]
+    },
+    {
+        "customer_id": 27,
+        "name": "Christopher Kelly",
+        "email": "noahhall@gmail.com",
+        "phone": "(226)870-3873x57921",
+        "address": "712 Evans Plaza Apt. 590\nWest Wendy, MI 08291",
+        "city": "Lake Michael",
+        "state": "South Dakota",
+        "zip_code": "64843",
+        "purchases": [
+            8
+        ]
+    },
+    {
+        "customer_id": 28,
+        "name": "Patricia Mathews",
+        "email": "sylvia85@yahoo.com",
+        "phone": "2906159449",
+        "address": "159 Glover Fall Apt. 786\nGilbertbury, MD 63816",
+        "city": "South Heatherport",
+        "state": "Pennsylvania",
+        "zip_code": "51236",
+        "purchases": []
+    },
+    {
+        "customer_id": 29,
+        "name": "Melanie Torres",
+        "email": "sherrycameron@jones.com",
+        "phone": "299-289-6910x0315",
+        "address": "7830 John Mountains Apt. 778\nEast Logan, AL 02289",
+        "city": "Brentstad",
+        "state": "Rhode Island",
+        "zip_code": "87593",
+        "purchases": []
+    },
+    {
+        "customer_id": 30,
+        "name": "Raymond Walters",
+        "email": "lindahayes@hotmail.com",
+        "phone": "1710301235",
+        "address": "Unit 0472 Box 0250\nDPO AA 27914",
+        "city": "North Mark",
+        "state": "Delaware",
+        "zip_code": "06369",
+        "purchases": []
+    },
+    {
+        "customer_id": 31,
+        "name": "Tiffany Reed",
+        "email": "brianweiss@gmail.com",
+        "phone": "000-029-9015x38958",
+        "address": "996 Quinn Drive\nLaneborough, NM 99036",
+        "city": "Port Richardbury",
+        "state": "Alabama",
+        "zip_code": "87957",
+        "purchases": [
+            25,
+            29,
+            31
+        ]
+    },
+    {
+        "customer_id": 32,
+        "name": "Kayla Hatfield",
+        "email": "rgray@moyer.com",
+        "phone": "(175)728-0623x2217",
+        "address": "433 Maldonado Mission\nEdwardsmouth, OH 71309",
+        "city": "Port Elizabethstad",
+        "state": "Idaho",
+        "zip_code": "63644",
+        "purchases": []
+    },
+    {
+        "customer_id": 33,
+        "name": "Samuel Baker",
+        "email": "danielgreer@hotmail.com",
+        "phone": "298-571-7054",
+        "address": "USS Ortega\nFPO AA 08113",
+        "city": "South Shannon",
+        "state": "West Virginia",
+        "zip_code": "86666",
+        "purchases": [
+            15
+        ]
+    },
+    {
+        "customer_id": 34,
+        "name": "Bradley Rodriguez",
+        "email": "rfletcher@conner.biz",
+        "phone": "777-816-9326x663",
+        "address": "4784 Simmons Camp Suite 957\nHernandezmouth, MT 45503",
+        "city": "Ericfurt",
+        "state": "Mississippi",
+        "zip_code": "38064",
+        "purchases": [
+            2
+        ]
+    },
+    {
+        "customer_id": 35,
+        "name": "Nicholas Stewart",
+        "email": "mclaughlinnatalie@hotmail.com",
+        "phone": "467-954-1276",
+        "address": "7981 Olson Bypass Suite 236\nBellport, SC 07090",
+        "city": "New Christopherstad",
+        "state": "Kentucky",
+        "zip_code": "18739",
+        "purchases": []
+    },
+    {
+        "customer_id": 36,
+        "name": "Joshua Leblanc",
+        "email": "zzuniga@gmail.com",
+        "phone": "(061)566-2102x3319",
+        "address": "03499 Gonzales Isle\nCantrellmouth, NY 42396",
+        "city": "Andrewland",
+        "state": "Alabama",
+        "zip_code": "47526",
+        "purchases": [
+            4
+        ]
+    },
+    {
+        "customer_id": 37,
+        "name": "Amanda Williams",
+        "email": "cramos@hotmail.com",
+        "phone": "001-339-564-9716",
+        "address": "9277 Anderson Skyway\nWest Jessicatown, WI 76848",
+        "city": "Kingport",
+        "state": "Massachusetts",
+        "zip_code": "24231",
+        "purchases": [
+            16
+        ]
+    },
+    {
+        "customer_id": 38,
+        "name": "Harold Gibson",
+        "email": "ernestjoseph@james.com",
+        "phone": "001-494-077-5050x08147",
+        "address": "PSC 5986, Box 0898\nAPO AP 70625",
+        "city": "Brianhaven",
+        "state": "New Mexico",
+        "zip_code": "53142",
+        "purchases": [
+            7,
+            10,
+            12,
+            18,
+            20
+        ]
+    },
+    {
+        "customer_id": 39,
+        "name": "Fred Wilson",
+        "email": "yangrachel@rogers-french.biz",
+        "phone": "(141)482-1086x11586",
+        "address": "USS Hall\nFPO AA 71699",
+        "city": "South Paulmouth",
+        "state": "Texas",
+        "zip_code": "01251",
+        "purchases": []
+    }
+]

@@ -1,0 +1,312 @@
+[
+    {
+        "transaction_id": 1,
+        "customer_id": 24,
+        "car_id": 22,
+        "dealer_id": 72,
+        "date": "2024-01-21",
+        "price": 4826902,
+        "payment_method": "Financing",
+        "status": "Completed"
+    },
+    {
+        "transaction_id": 2,
+        "customer_id": 34,
+        "car_id": 45,
+        "dealer_id": 44,
+        "date": "2020-07-10",
+        "price": 1603569,
+        "payment_method": "Cash",
+        "status": "Cancelled"
+    },
+    {
+        "transaction_id": 3,
+        "customer_id": 26,
+        "car_id": 26,
+        "dealer_id": 25,
+        "date": "2020-03-19",
+        "price": 3228397,
+        "payment_method": "Bank Transfer",
+        "status": "Completed"
+    },
+    {
+        "transaction_id": 4,
+        "customer_id": 36,
+        "car_id": 10,
+        "dealer_id": 23,
+        "date": "2023-04-02",
+        "price": 4882426,
+        "payment_method": "Credit Card",
+        "status": "Pending"
+    },
+    {
+        "transaction_id": 5,
+        "customer_id": 26,
+        "car_id": 19,
+        "dealer_id": 31,
+        "date": "2024-07-24",
+        "price": 1006937,
+        "payment_method": "Credit Card",
+        "status": "Completed"
+    },
+    {
+        "transaction_id": 6,
+        "customer_id": 20,
+        "car_id": 36,
+        "dealer_id": 68,
+        "date": "2020-04-22",
+        "price": 2777325,
+        "payment_method": "Cash",
+        "status": "Pending"
+    },
+    {
+        "transaction_id": 7,
+        "customer_id": 38,
+        "car_id": 12,
+        "dealer_id": 6,
+        "date": "2022-12-26",
+        "price": 2360045,
+        "payment_method": "Credit Card",
+        "status": "Cancelled"
+    },
+    {
+        "transaction_id": 8,
+        "customer_id": 27,
+        "car_id": 13,
+        "dealer_id": 16,
+        "date": "2023-08-01",
+        "price": 3449892,
+        "payment_method": "Bank Transfer",
+        "status": "Completed"
+    },
+    {
+        "transaction_id": 9,
+        "customer_id": 19,
+        "car_id": 44,
+        "dealer_id": 71,
+        "date": "2020-03-01",
+        "price": 3738969,
+        "payment_method": "Credit Card",
+        "status": "Pending"
+    },
+    {
+        "transaction_id": 10,
+        "customer_id": 38,
+        "car_id": 28,
+        "dealer_id": 74,
+        "date": "2020-04-20",
+        "price": 2347914,
+        "payment_method": "Bank Transfer",
+        "status": "Completed"
+    },
+    {
+        "transaction_id": 11,
+        "customer_id": 19,
+        "car_id": 24,
+        "dealer_id": 2,
+        "date": "2020-05-20",
+        "price": 1510686,
+        "payment_method": "Financing",
+        "status": "Completed"
+    },
+    {
+        "transaction_id": 12,
+        "customer_id": 38,
+        "car_id": 4,
+        "dealer_id": 20,
+        "date": "2022-12-23",
+        "price": 3772955,
+        "payment_method": "Credit Card",
+        "status": "Cancelled"
+    },
+    {
+        "transaction_id": 13,
+        "customer_id": 23,
+        "car_id": 10,
+        "dealer_id": 23,
+        "date": "2022-06-20",
+        "price": 4882426,
+        "payment_method": "Cash",
+        "status": "Completed"
+    },
+    {
+        "transaction_id": 14,
+        "customer_id": 23,
+        "car_id": 48,
+        "dealer_id": 25,
+        "date": "2021-11-15",
+        "price": 2465990,
+        "payment_method": "Bank Transfer",
+        "status": "Cancelled"
+    },
+    {
+        "transaction_id": 15,
+        "customer_id": 33,
+        "car_id": 3,
+        "dealer_id": 26,
+        "date": "2022-04-23",
+        "price": 2216461,
+        "payment_method": "Credit Card",
+        "status": "Pending"
+    },
+    {
+        "transaction_id": 16,
+        "customer_id": 37,
+        "car_id": 22,
+        "dealer_id": 72,
+        "date": "2024-05-25",
+        "price": 4826902,
+        "payment_method": "Financing",
+        "status": "Completed"
+    },
+    {
+        "transaction_id": 17,
+        "customer_id": 2,
+        "car_id": 21,
+        "dealer_id": 71,
+        "date": "2023-10-01",
+        "price": 1510663,
+        "payment_method": "Credit Card",
+        "status": "Cancelled"
+    },
+    {
+        "transaction_id": 18,
+        "customer_id": 38,
+        "car_id": 15,
+        "dealer_id": 48,
+        "date": "2021-08-09",
+        "price": 4010120,
+        "payment_method": "Credit Card",
+        "status": "Completed"
+    },
+    {
+        "transaction_id": 19,
+        "customer_id": 4,
+        "car_id": 42,
+        "dealer_id": 54,
+        "date": "2020-02-02",
+        "price": 2037865,
+        "payment_method": "Bank Transfer",
+        "status": "Cancelled"
+    },
+    {
+        "transaction_id": 20,
+        "customer_id": 38,
+        "car_id": 2,
+        "dealer_id": 33,
+        "date": "2022-12-15",
+        "price": 1669542,
+        "payment_method": "Bank Transfer",
+        "status": "Pending"
+    },
+    {
+        "transaction_id": 21,
+        "customer_id": 16,
+        "car_id": 10,
+        "dealer_id": 23,
+        "date": "2024-04-03",
+        "price": 4882426,
+        "payment_method": "Credit Card",
+        "status": "Completed"
+    },
+    {
+        "transaction_id": 22,
+        "customer_id": 16,
+        "car_id": 20,
+        "dealer_id": 9,
+        "date": "2022-05-11",
+        "price": 4614964,
+        "payment_method": "Credit Card",
+        "status": "Completed"
+    },
+    {
+        "transaction_id": 23,
+        "customer_id": 2,
+        "car_id": 49,
+        "dealer_id": 26,
+        "date": "2025-02-14",
+        "price": 740236,
+        "payment_method": "Bank Transfer",
+        "status": "Completed"
+    },
+    {
+        "transaction_id": 24,
+        "customer_id": 4,
+        "car_id": 4,
+        "dealer_id": 20,
+        "date": "2021-02-09",
+        "price": 3772955,
+        "payment_method": "Cash",
+        "status": "Cancelled"
+    },
+    {
+        "transaction_id": 25,
+        "customer_id": 31,
+        "car_id": 17,
+        "dealer_id": 41,
+        "date": "2022-11-19",
+        "price": 2554282,
+        "payment_method": "Cash",
+        "status": "Cancelled"
+    },
+    {
+        "transaction_id": 26,
+        "customer_id": 4,
+        "car_id": 35,
+        "dealer_id": 22,
+        "date": "2021-08-22",
+        "price": 3521269,
+        "payment_method": "Credit Card",
+        "status": "Completed"
+    },
+    {
+        "transaction_id": 27,
+        "customer_id": 25,
+        "car_id": 47,
+        "dealer_id": 18,
+        "date": "2024-07-29",
+        "price": 3430389,
+        "payment_method": "Financing",
+        "status": "Pending"
+    },
+    {
+        "transaction_id": 28,
+        "customer_id": 26,
+        "car_id": 21,
+        "dealer_id": 71,
+        "date": "2022-01-12",
+        "price": 1510663,
+        "payment_method": "Financing",
+        "status": "Cancelled"
+    },
+    {
+        "transaction_id": 29,
+        "customer_id": 31,
+        "car_id": 36,
+        "dealer_id": 68,
+        "date": "2022-01-30",
+        "price": 2777325,
+        "payment_method": "Cash",
+        "status": "Pending"
+    },
+    {
+        "transaction_id": 30,
+        "customer_id": 10,
+        "car_id": 28,
+        "dealer_id": 74,
+        "date": "2022-03-01",
+        "price": 2347914,
+        "payment_method": "Cash",
+        "status": "Cancelled"
+    },
+    {
+        "transaction_id": 31,
+        "customer_id": 31,
+        "car_id": 37,
+        "dealer_id": 22,
+        "date": "2023-08-08",
+        "price": 713194,
+        "payment_method": "Financing",
+        "status": "Cancelled"
+    }
+]
